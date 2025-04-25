@@ -1,4 +1,4 @@
-
+(Note that this is a very low-level and easy project)
 
 How does Sassazres work?
 
